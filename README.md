@@ -90,8 +90,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavikd&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavikd&theme=radical"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/Kaviarasan G">
+  <a href="https://www.linkedin.com/in/kaviarasan-g-5a86812a7">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/___smiley___kavi___">
