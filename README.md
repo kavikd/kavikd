@@ -108,7 +108,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kavia-rasan-5a86812a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://linkedin.com/Kaviarasan G">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://instagram.com/___smiley___kavi___">
